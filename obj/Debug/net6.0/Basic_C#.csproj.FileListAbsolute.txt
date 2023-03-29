@@ -1,0 +1,15 @@
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\bin\Debug\net6.0\Basic_C#.exe
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\bin\Debug\net6.0\Basic_C#.deps.json
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\bin\Debug\net6.0\Basic_C#.runtimeconfig.json
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\bin\Debug\net6.0\Basic_C#.dll
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\bin\Debug\net6.0\Basic_C#.pdb
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\Basic_C#.csproj.AssemblyReference.cache
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\Basic_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\Basic_C#.AssemblyInfoInputs.cache
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\Basic_C#.AssemblyInfo.cs
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\Basic_C#.csproj.CoreCompileInputs.cache
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\Basic_C#.dll
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\refint\Basic_C#.dll
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\Basic_C#.pdb
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\Basic_C#.genruntimeconfig.cache
+C:\Users\bs1092\Desktop\DOT.NET\Basic_C#\obj\Debug\net6.0\ref\Basic_C#.dll
