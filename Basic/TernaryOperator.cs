@@ -9,6 +9,7 @@ namespace Basic_C_.Basic
 {
     internal class TernaryOperator
     {
+      
         public void main(string[] args)
         {
             int x = 5;

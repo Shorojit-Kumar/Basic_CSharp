@@ -11,7 +11,7 @@ namespace Basic_C_.OOP
     {
         public ArrayCasting() { }
 
-        public void main(string[] args)
+        public void ExecutionPoint(string[] args)
         {
             /// This is the normal process of declear diffrent types of array
             /*
@@ -23,7 +23,7 @@ namespace Basic_C_.OOP
             string[] strings=new string[15];
             */
 
-            // We can also declear dynamic types array which can contains any types of data;
+            // We can also decleare dynamic types array which can contains any types of data;
             dynamic[] array = new dynamic[15];
 
             array[0] = 10;

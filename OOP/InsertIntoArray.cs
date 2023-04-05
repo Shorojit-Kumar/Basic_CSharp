@@ -9,7 +9,7 @@ namespace Basic_C_.OOP
     internal class InsertIntoArray
     {
         public InsertIntoArray() { }
-        public void main(string[] args)
+        public void ExecutionPoint(string[] args)
         {
             dynamic[] ar=new dynamic[10];
 

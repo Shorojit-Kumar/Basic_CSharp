@@ -15,7 +15,7 @@ namespace Basic_C_.OOP
             Name=name;
         }
         public ClassDeclearation() { }
-        public void main(string[] args)
+        public void ExecutionPoint(string[] args)
         {
             ClassDeclearation newClass = new ClassDeclearation("Shorojit Kumar Sarkar");
             Console.WriteLine(newClass.Name);

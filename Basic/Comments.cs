@@ -13,7 +13,7 @@ namespace Basic_C_.Basic
             //This is single line comment
 
             /* we can comment multiline
-              usint is way
+              using in this way
              */
         }
     }

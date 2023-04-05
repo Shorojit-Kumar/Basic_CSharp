@@ -19,7 +19,7 @@ namespace Basic_C_.OOP
             Console.WriteLine("\n--------------------------------------------");
         }
         
-    public void main(string[] args)
+    public void ExecutionPoint(string[] args)
         {
             List<int> lists=new List<int>();
             // add function adds a element in the end of list

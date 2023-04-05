@@ -19,7 +19,7 @@ namespace Basic_C_.OOP
     internal class EnumDeclearation
     {
         public EnumDeclearation() { }
-        public void main(string[] args)
+        public void ExecutionPoint(string[] args)
         {
             string day = "Monday";
             //Convert string to enum

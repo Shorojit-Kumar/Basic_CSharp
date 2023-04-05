@@ -29,7 +29,7 @@ namespace Basic_C_.OOP
     {
 
         public DeclearStructure() { }
-        public void main(int id,string name,string address) {
+        public void ExecutionPoint(int id,string name,string address) {
            Customer customer = new Customer();
             customer.addInformations(id, name, address);
             customer.disPlay();

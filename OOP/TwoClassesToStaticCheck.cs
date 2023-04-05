@@ -22,7 +22,7 @@ namespace Basic_C_.OOP
             Console.WriteLine(somethings);
         }
 
-        public void main(string somethings)
+        public void ExecutionPoint(string somethings)
         {
             Person.print(somethings);
             TwoClassesToStaticCheck ob=new TwoClassesToStaticCheck();

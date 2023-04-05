@@ -9,8 +9,15 @@ namespace Basic_C_.Basic
 {
     internal class SwitchCase
     {
+
+        public dynamic sum(dynamic a,dynamic b)
+        {
+            return a + b;
+        }
         public void main(string[] args)
         {
+            Console.WriteLine(sum(1.2, 4));
+            Console.WriteLine(sum(1, 2));
 
             int value = Convert.ToInt32(Console.ReadLine());
 
@@ -18,12 +25,12 @@ namespace Basic_C_.Basic
             {
                 case 10:
                     {
-                        Console.WriteLine("The value is less than 10");
+                        Console.WriteLine("The value is  10");
                         break;
                     }
                 case 20:
                     {
-                        Console.WriteLine("This value is less than 20");
+                        Console.WriteLine("This value is 20");
                         break;
                     }
                 default:
