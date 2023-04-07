@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bs1092\\.nuget\\packages\\": {}
+    "C:\\Users\\Brain Station 23\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\Users\\bs1092\\Desktop\\DOT.NET\\Basic_C#\\Basic_C#.csproj",
       "projectName": "Basic_C#",
       "projectPath": "C:\\Users\\bs1092\\Desktop\\DOT.NET\\Basic_C#\\Basic_C#.csproj",
-      "packagesPath": "C:\\Users\\bs1092\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Brain Station 23\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bs1092\\Desktop\\DOT.NET\\Basic_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bs1092\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Brain Station 23\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
